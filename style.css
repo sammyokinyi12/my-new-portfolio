@@ -1,20 +1,9 @@
-header{
+header {
     background-color: blue;
     margin: 0%;
-text-align: center;
-padding: 0%;
-
+    text-align: center;
 }
-
-main{
-    background-color: grey;
-}
-li a{
-    text-decoration: none;
-    color: rgb(135, 8, 8);
-    font-size: 20px;
-    padding: 0;
-    margin: 0;
-    display: flex;
-
+nav.list{
+    text-align: center;
+    font-style: oblique;
 }
