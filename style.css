@@ -1,9 +1,9 @@
+
+
 header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: blue;
     margin: 0%;
     text-align: center;
 }
-nav.list{
-    text-align: center;
-    font-style: oblique;
-}
+
